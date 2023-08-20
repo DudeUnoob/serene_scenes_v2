@@ -1,0 +1,24 @@
+.background-cover {
+    /* background-image: url(https://www.w3schools.com/howto/img_parallax.jpg);
+    height: 100%; */
+    width: 100%;
+    height: 100vh;
+  
+  
+    /* background-attachment: fixed;
+    background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+   }
+  
+   #background-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+   }
+  
+   .background-cover h2 {
+    position: absolute;
+    right: 20%;
+    top: 20%;
+   }
